@@ -1,6 +1,6 @@
 # Neuralfi
 
-Neuralfi is an attempt to use a neural network to analyze user drawn shapes (using [paperjs](http://paperjs.org/) and [synaptic](http://caza.la/synaptic/)) in the browser. This will eventually become a game, similar to the 2016 google halloween doodle, where the user draws shapes to defeat enemies
+Neuralfi is an attempt to use a neural network to analyze user drawn shapes (using <a href="http://paperjs.org/" target="_blank">paper js</a> and <a href="http://caza.la/synaptic" target="_blank">synaptic</a>) in the browser. This will eventually become a game, similar to the 2016 google halloween doodle, where the user draws shapes to defeat enemies
 
 ### TODO
 clean the array -
